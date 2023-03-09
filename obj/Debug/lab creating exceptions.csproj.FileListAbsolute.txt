@@ -1,0 +1,8 @@
+C:\Users\USER\Desktop\CPRG-211_Object-Oriented Programming 2\lab5\lab creating exceptions\bin\Debug\lab creating exceptions.exe.config
+C:\Users\USER\Desktop\CPRG-211_Object-Oriented Programming 2\lab5\lab creating exceptions\bin\Debug\lab creating exceptions.exe
+C:\Users\USER\Desktop\CPRG-211_Object-Oriented Programming 2\lab5\lab creating exceptions\bin\Debug\lab creating exceptions.pdb
+C:\Users\USER\Desktop\CPRG-211_Object-Oriented Programming 2\lab5\lab creating exceptions\obj\Debug\lab creating exceptions.csproj.AssemblyReference.cache
+C:\Users\USER\Desktop\CPRG-211_Object-Oriented Programming 2\lab5\lab creating exceptions\obj\Debug\lab creating exceptions.csproj.SuggestedBindingRedirects.cache
+C:\Users\USER\Desktop\CPRG-211_Object-Oriented Programming 2\lab5\lab creating exceptions\obj\Debug\lab creating exceptions.csproj.CoreCompileInputs.cache
+C:\Users\USER\Desktop\CPRG-211_Object-Oriented Programming 2\lab5\lab creating exceptions\obj\Debug\lab creating exceptions.exe
+C:\Users\USER\Desktop\CPRG-211_Object-Oriented Programming 2\lab5\lab creating exceptions\obj\Debug\lab creating exceptions.pdb
